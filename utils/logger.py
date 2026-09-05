@@ -1,0 +1,18 @@
+"""Simple project-wide logger, used for debugging and demo transcripts."""
+
+import logging
+from pathlib import Path
+
+LOG_DIR = Path(__file__).resolve().parent.parent / "logs"
+LOG_DIR.mkdir(exist_ok=True)
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_DIR / "sira.log"),
+        logging.StreamHandler(),
+    ],
+)
+
+logger = logging.getLogger("SIRA")

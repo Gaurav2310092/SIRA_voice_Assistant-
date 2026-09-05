@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+*.pkl
+.ipynb_checkpoints/
+venv/
+.env.local
+nlp/models/*.pkl
+nlp/models/ner_model/
+nlp/models/confusion_matrix.png
+nlp/models/classification_report.txt
+logs/
+.pytest_cache/

@@ -1,0 +1,64 @@
+text,intent
+search for python tutorials,search
+look up weather in mumbai,search
+google the nearest restaurant,search
+find information about black holes,search
+search for the latest iphone news,search
+look for cheap flights to goa,search
+can you google how to make pasta,search
+search the web for machine learning courses,search
+find me some recipes for pancakes,search
+look up the population of india,search
+search for best laptops under 50000,search
+google define serendipity,search
+find articles about climate change,search
+search youtube for react tutorials,search
+look up how tall is mount everest,search
+play despacito on youtube,play
+play some lofi music,play
+put on believer by imagine dragons,play
+start playing my favorite playlist,play
+play a relaxing piano track,play
+can you play shape of you,play
+put on some workout music,play
+play the new arijit singh song,play
+start the music,play
+play a random song,play
+play bohemian rhapsody,play
+put on some jazz music,play
+play a song from the 90s,play
+send an email to rahul,email
+mail the report to my professor,email
+email the notes to sarah,email
+send a message to my manager about the meeting,email
+compose an email to hr,email
+write an email to john regarding the project,email
+send this document to my team lead,email
+email my resume to the recruiter,email
+mail the invoice to the client,email
+send an email reminder to priya,email
+open notepad,open_app
+launch vs code,open_app
+start the calculator,open_app
+open chrome,open_app
+launch notepad please,open_app
+open visual studio code,open_app
+start chrome browser,open_app
+open the calculator app,open_app
+launch my code editor,open_app
+open ms paint,open_app
+start notepad for me,open_app
+exit the program,exit
+quit sira,exit
+stop listening,exit
+shut down assistant,exit
+close the assistant,exit
+turn off sira,exit
+what's the time,unknown
+tell me a joke,unknown
+how are you,unknown
+what is your name,unknown
+who created you,unknown
+tell me something interesting,unknown
+what can you do,unknown
+sing me a song,unknown
